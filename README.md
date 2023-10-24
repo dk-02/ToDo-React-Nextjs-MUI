@@ -8,3 +8,4 @@ A simple ToDo app I'm making while practising React and Nextjs with MUI. :)
 - Pending and Completed panels
 - Reminders
 - Calendar
+ 
